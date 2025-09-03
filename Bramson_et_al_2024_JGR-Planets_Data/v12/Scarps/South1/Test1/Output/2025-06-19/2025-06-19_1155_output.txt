@@ -1,0 +1,2 @@
+LaskarTimestep	time_years	ecc	obl	Lsp	Tsurf	SF12	ForcedConv	FreeConv	TotalSubl
+ 21001	           0	 0.093315101	25.189417000	-108.955069177	158.622276462	 0.190011433	         0.000684026	         0.000000000	         0.000684026

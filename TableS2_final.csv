@@ -1,0 +1,52 @@
+﻿Site ID,Reference image,Latitude,Longitude,Status,Length,Width,Trend,Retreat,Layering,Ridges,Polygons,Boulders,Notes
+South Scarp Site 1,ESP_021954_1230,-56.62,114.03,C,6470,110,83,2600,Poor,Y,Y,Y,"""Island"" in pit. Ridges diminish in height away from scarp. ""Wavy"" in plan view. "
+South Scarp Site 2,ESP_048683_1245,-55.15,109.38,C,2750,170,79,2400,Poor,Y,Y,Y,Small ice exposure exists on pit floor. 
+South Scarp Site 3,ESP_040772_1215,-58.09,93.7,C,1470,110,82,1900,Poor,N,N,Few,"No ridges in pit, but one low ridge does extend from the scarp and there are linear troughs paralleling the scarp. Small secondary scarps were not tabulated separately although they are outside the defined scarp-pit pair. "
+South Scarp Site 4,ESP_048894_1245,-55.05,108.87,C,1380,140,83,1100,N,N,N,Few,x
+South Scarp Site 4,ESP_048894_1245,-55.05,108.91,C,410,50,83,500,N,N,N,Few,Appears to have bifurcated from scarp 4a. Retreat distance is from estimated bifurcation point. 
+South Scarp Site 5,ESP_049198_1225,-57.18,89.79,C,2420,200,87,2200,Y,Y,N,Few,Scarp has fractures; upper surface has some chains of pits. Two major color layers; also finer layering. Small secondary scarp was not tabulated separately. 
+South Scarp Site 6,ESP_057466_1230,-56.88,96.31,C,1540,160,85,1400,Y,Y,N,Few,Excellent layering with unconformity. Non-horizontal layers. 
+South Scarp Site 7,ESP_057321_1220,-57.49,91.9,C,1480,130,79,1400,Y,N,N?,N,Excellent layering with unconformity. Change in layer style and ice texture at unconformity. Ice may be exposed in pit floor materials. 
+South Scarp Site 8,ESP_057018_1190,-60.68,83.59,C,3200,90,88,1100,Poor,N,Y,Few,x
+South Scarp Site 8,ESP_057018_1190,-60.69,83.6,C,1590,130,84,600,Poor,N,Y,Few,x
+South Scarp Site 8,ESP_014307_1190,-60.61,83.51,C,560,100,80,500,Poor,N,N,N,x
+South Scarp Site 9,ESP_057281_1225,-57.04,104.62,C,1900,60,84,1100,Poor,Y,N?,N,Small secondary scarp not tabulated separately. 
+South Scarp Site 10,ESP_057293_1245,-55.07,136.88,C,1670,60,103,3100,Poor,Y,Y,N,"Length is lower bound for primary scarp; scarp continues beyond HiRISE image but difficult to determine how much has exposed ice. Width is from one of the secondary scarps, which is larger than the primary in the area with HiRISE coverage. "
+South Scarp Site 11,ESP_057334_1290,-50.78,97.33,CM,1280,20,85,4400,N,N,N,Y,Outlier branch not tabulated (very small). 
+South Scarp Site 12,ESP_057781_1250,-54.86,137.09,C,460,50,81,400,Poor,N,Y,Few,x
+South Scarp Site 13,ESP_057901_1235,-56.16,103.12,CM,130,20,83,400,N,Y,N,N,"The actual exposure here is a small outlier scarp, but the main scarp no longer has exposed ice. Retreat dimension is for the part of the pit which is distinct to the outlier. "
+South Scarp Site 14,ESP_057969_1225,-57.02,47.22,CM,670,30,85,1400,Poor,N,Y,Few,Complex scarp structure. 
+South Scarp Site 15,ESP_058971_1230,-56.61,50.59,C,1070,150,70,1800,N,N,Y,Y,Complex scarp structure. Retreat distance not well defined. 
+South Scarp Site 16,ESP_065970_1250,-54.74,137.31,C,650,40,98,300,Poor,N,Y,N,Part of larger complex pit.
+South Scarp Site 19,ESP_065853_1190,-60.75,92.09,C,610,50,87,500,Poor,N,N,N,Surface is covered by bedforms.
+South Scarp Site 19,ESP_065853_1190,-60.76,92.09,C,530,70,90,200,Poor,N,N,N,Polygons appear within sloping terrain but not on the level uneroded surface. Surface is covered by bedforms. 
+South Scarp Site 20,ESP_066196_1200,-59.92,91.76,CM,930,40,80,200,N,N,N,N,Small outlier scarp is brighter; not tabulated separately. Surface is covered by bedforms. Retreat distance is lower bound; part of complex landform. 
+South Scarp Site 21,ESP_066552_1215,-57.99,93.4,C,340,70,84,500,Poor,N,N,Few,Retreat distance is lower bound; part of complex landform. 
+South Scarp Site 22,ESP_066037_1295,-50.1,106.64,C,660,60,70,1700,N,N,N,N,Pit shape indicates lateral movement during retreat. 
+South Scarp Site 23,ESP_066169_1255,-54.36,105.81,CM,740,60,88,300,N,N,Y,N,Scarp has two separate exposures but continuous crest; treated as one longer scarp. Part of complex pit structure; retreat distance is lower bound.
+South Scarp Site 23,ESP_066169_1255,-54.37,105.79,CM,260,30,79,100,N,N,Y,N,Retreat distance is lower bound. 
+North Scarp Site 1,ESP_045857_2350,54.89,212.01,C,340,60,274,200,N,N,Y,N,x
+North Scarp Site 1,ESP_045857_2350,54.89,212.01,C,200,60,270,300,N,N,Y,N,x
+North Scarp Site 1,ESP_045857_2350,54.87,212,C,440,40,281,200,N,N,Y,N,x
+North Scarp Site 1,ESP_045857_2350,54.85,212.01,C,600,70,281,300,N,Poor,Y,N,x
+North Scarp Site 1,ESP_045857_2350,54.79,212.02,C,380,50,284,200,N,Poor,Y,N,Multiple en-echelon outliers not tabulated separately. 
+North Scarp Site 1,ESP_045857_2350,54.69,212.04,C,330,40,278,300,N,Poor,Y?,N,x
+North Scarp Site 1,ESP_053241_2345,54.2,211.89,C,1100,80,270,700,Poor,N,Y,N,x
+North Scarp Site 1,ESP_061681_2345,54.15,212.13,CM,450,30,276,200,N,N,Y,N,x
+North Scarp Site 1,ESP_061681_2345,54.12,212.14,CM,1230,120,278,400,N,N,Y?,N,Retreat distance is lower bound. Adjacent secondary scarps were not tabulated separately. 
+North Scarp Site 1,ESP_061048_2340,53.85,212.26,CM,880,70,278,400,N,Poor,Y,N,Small outlier not tabulated separately but has stronger coloration. 
+North Scarp Site 2,ESP_053175_2350,54.84,214.51,C,1220,50,258,700,Poor,N,Y,N,Retreat distance is lower bound. Multi-segment scarp. 
+North Scarp Site 2,ESP_053175_2350,54.88,214.5,C,220,40,262,300,N,N,Y,N,x
+North Scarp Site 2,ESP_053175_2350,54.89,214.48,CM,300,40,276,300,N,Poor,Y,N,x
+North Scarp Site 2,ESP_061127_2345,54.19,214.63,C,1490,30,254,2000,Poor,N,Y,N,Coloration not strong. 
+North Scarp Site 2,ESP_063962_2345,54.35,214.65,CM,650,80,280,300,N,N,Y,N,May be two merged scarps.
+North Scarp Site 3,ESP_053452_2340,53.7,212.77,C,700,60,273,700,N,N,N?,N,Small secondary scarp was not tabulated separately. 
+North Scarp Site 4,ESP_017563_2375,56.97,95.71,CM,610,140,238,1100,N?,N,Y,N,Complex scarp structure. 
+North Scarp Site 5,ESP_026959_2355,55.27,253.57,C,1820,140,269,700,Poor,N,N?,Few,Retreat distance is lower bound. Secondary scarps were not tabulated separately. Bands of coloration may indicate layering or a lens of less-icy material. 
+North Scarp Site 5,ESP_035174_2355,55.32,253.43,C,210,30,271,200,N,Y,Y,Few,Many fine scarp-parallel ridges.
+North Scarp Site 5,ESP_062853_2355,55.31,253.46,C,510,40,275,200,N,Y,Y,Few,Many fine scarp-parallel ridges.
+North Scarp Site 5,ESP_062853_2355,55.31,253.47,C,470,60,275,200,N,Y,Y,Few,Many fine scarp-parallel ridges.
+North Scarp Site 6,ESP_062762_2370,56.92,216.9,C,1480,160,284,1200,N,N,N,Y,Complex scarp structure. Retreat distance not well defined. Multiple secondary scarps without ice coloration. 
+North Scarp Site 7,ESP_062776_2370,56.61,195.69,CM,450,70,286,500,N,N,Y,Y,x
+North Scarp Site 7,ESP_063844_2370,56.67,195.97,CM,290,40,281,200,N,Y,Y,Y,x
+North Scarp Site 8,ESP_063262_2390,58.58,244.54,C,1960,110,287,900,N,N,N,Y,Small parallel outlier scarp not tabulated separately. Retreat distance is lower bound.

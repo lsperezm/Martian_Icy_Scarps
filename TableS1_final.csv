@@ -1,0 +1,35 @@
+﻿Site ID,Reference image,Status,CRISM?,Latitude,Longitude,Downhill ,Expanded craters,Scalloped Depressions,Pits,Lineations,Notes
+South Scarp Site 1,ESP_021954_1230,C,Multiple,-56.6,114,S,Y,Possible,Y,Possible,Irregular pits verge on scallops but ill-defined. Parts of the uppermost smooth mantle appear to be eroding. Boulders are small and fairly sparse. Some CRISM detections could be frost. 
+South Scarp Site 2,ESP_048683_1245,C,FRT00014152_07_IF163S,-55.1,109.4,S,Possible,N,Y,Y,Boulder-rich pit floor; non-bouldery material includes a small secondary scarp. 
+South Scarp Site 3,ESP_040772_1215,C,FRS000363AF_01_IF170S,-58.1,93.7,S,N,Possible,Y,N,Upper surface looks very much like dust bedforms. Some irregular pits verge on scallops (or expanded craters) but ill-defined. Small secondary scarps not tabulated separately although they are in a wider depression outside the defined scarp-pit pair. 
+South Scarp Site 4,ESP_048894_1245,C,x,-55.1,108.9,S,Possible,Possible,Y,Possible,Two major scarps. Upper surface looks like dust bedforms. Irregular pits verge on scallops. 
+South Scarp Site 5,ESP_049198_1225,C,x,-57.2,89.8,SW,N,N,Y,N,Upper surface is either dust bedforms or ill-defined polygons. Scarp has fractures; upper surface has some chains of pits. Dust devil tracks present. Small secondary scarp not tabulated separately. 
+South Scarp Site 6,ESP_057466_1230,C,FRS00042C97_01_IF170S,-56.9,96.3,S,Possible,N,Y,N,Upper surface has aspects of both dust bedforms and polygons. CRISM detection of ice is late summer and could be early seasonal frost. 
+South Scarp Site 7,ESP_057321_1220,C,x,-57.5,91.9,X,N,N,Y,N,Upper surface has aspects of both dust bedforms and polygons. May be on a slight west-facing slope but minimal. 
+South Scarp Site 8,ESP_057018_1190,C,x,-60.7,83.6,W,N,N,Y,N,Upper surface resembles dust bedforms. 
+South Scarp Site 9,ESP_057281_1225,C,x,-57,104.6,X,N,N,N,N,Upper surface has aspects of both dust bedforms and polygons. Small secondary scarp not tabulated separately.  
+South Scarp Site 10,ESP_057293_1245,C,x,-55.1,136.9,SE,N,N,Y,N,Multiple en echelon scarp segments. Only tabulated the longest; the others are long for secondary scarps but have essentially similar properties. 
+South Scarp Site 11,ESP_057334_1290,CM,x,-50.8,97.3,S,Possible,N,Y,N,"Scarp appears to have much less relief than most others. Many boulders on pit floor. Most of scarp is not relatively-blue but some small patches are and the morphology is classic. Probable small secondary scarp has branched off, not tabulated separately. "
+South Scarp Site 12,ESP_057781_1250,C,x,-54.9,137.1,X,N,N,Y,N,x
+South Scarp Site 13,ESP_057901_1235,CM,x,-56.2,103.1,S,N,N,Y,N,"Relatively-blue exposure is small but enough to consider confirmed; would be considered a small outlier if the main scarp was exposed. Narrow ridges on pit floor, both scarp- and edge-parallel, and triangular patterning suggesting a history of multiple secondary scarps. "
+South Scarp Site 14,ESP_057969_1225,CM,x,-57,47.2,X,Possible,Possible,Y,N,"Most of scarp is not relatively-blue (there is coloration suggestive of mafic/sandy material around the scarp) but some small patches are and the morphology is classic. The associated pit is long and narrow and is incised into material that sits below the already-eroded surface of a smooth mantle.  Small secondary scarp exists, not tabulated separately. "
+South Scarp Site 15,ESP_058971_1230,C,x,-56.6,50.6,NW,N,Y,N,N,"Complex scarp structure, with small outlier scarps not tabulated separately. "
+South Scarp Site 16,ESP_065970_1250,C,x,-54.7,137.3,S,N,N,Y,N,x
+South Candidate 17,ESP_065986_1245,L,x,-55.3,60.8,X,Y,Y,Y,N,Parallel troughs nearby. 
+South Candidate 18,ESP_066170_1210,P,x,-58.8,80.6,X,N,Y,N,N,Subset of a larger scarp with a ragged morphology. ESP_066170_1210 does not cover the scarp in color. 
+South Scarp Site 19,ESP_065853_1190,C,x,-60.8,92.1,SW,N,N,N,N,Two scarps. 
+South Scarp Site 20,ESP_066196_1200,CM,x,-59.9,91.8,S,N,N,Y,N,x
+South Scarp Site 21,ESP_066552_1215,C,x,-58,93.4,W,N,Possible,Y,N,Small outlier in vicinity of South Scarp 3 but on an adjacent hill. 
+South Scarp Site 22,ESP_066037_1295,C,x,-50.1,106.6,SW,Y,N,N,N,Scarp appears to have retreated obliquely. 
+South Scarp Site 23,ESP_066169_1255,CM,x,-54.4,105.8,S,Possible,N,Y,N,x
+South Candidate 24,ESP_065894_1230,L,x,-56.7,51.3,X,Possible,Y,N,N,"Small scale, and morphology not very clean."
+North Scarp Site 1,ESP_024943_2345; ESP_045290_2350; ESP_052529_2345; ESP_053241_2345; ESP_061048_2340; ESP_061681_2345,C,Multiple,54.1,212.1,E,Y,Possible,Y,N,Western Milankovic crater. Numerous scarps. Some CRISM detections could be frost. 
+North Scarp Site 2,ESP_053175_2350; ESP_061127_2345; F01_035993_2349_XN_54N145W,C,x,54.8,214.5,X,Y,N,Y,N,Eastern Milankovic crater. Numerous scarps. 
+North Scarp Site 3,ESP_053452_2340,C,x,53.7,212.8,N,Y,N,Y,N,Southern Milankovic crater. CRISM FRS00046271_01_IF167S shows IRR1 parameter signature but not confirmed ice. 
+North Scarp Site 4,ESP_017563_2375,CM,HRL00018499_07_IF184L,57,95.7,X,N,N,Y,N,CRISM ice signature despite lack of coloration. See also Harish et al. (2020). 
+North Scarp Site 5,ESP_026959_2355; ESP_035174_2355; ESP_062708_2355,C,FRT0002498F_07_IF167L,55.3,253.6,N to E,N,N,Y,N,Icy crater nearby. See also Harish et al. (2020).
+North Scarp Site 6,ESP_062762_2370,CM,FRS00038D08_01_IF167S,56.9,216.9,N,N,Possible,Y,N,Multiple small scarps. 
+North Scarp Site 7,ESP_062776_2370,CM,HRL0000A299_07_IF185L,56.7,195.8,X,N,N,Y,Y,Multiple small scarps. Barely meets standards for CM; there are a couple of minor blue patches on the largest scarp. 
+North Scarp Site 8,ESP_063262_2390,C,x,58.6,244.5,N,N,N,Y,N,x
+North Candidate Scarp 9,P04_002461_2347_XI_54N147W and P17_007577_2348_XN_54N146W,P,x,55.2,212.8,S,Y,Y,Y,Possible,Northern Milankovic crater. 
+North Candidate Scarp 10,ESP_026644_2355,P,x,55.5,213.7,N,Y,Possible,Y,N,Outside rim of Milankovic crater; scarp is outside HiRISE color swath. 

@@ -1,0 +1,154 @@
+﻿Site ID,Latitude,Longitude,Ice exposure?,D_icy,D_nonicy,Reference HiRISE image,CRISM ice?,Notes
+Site N1,-50.59,305.98,No,x,7,PSP_007561_1290,.,Ejecta includes lighter-toned region but not discrete light material. 
+Site N2,-50.16,70.09,No,x,4.5,PSP_007596_1295,.,x
+Site N3,40.37,136.58,No,x,8.75;6,PSP_008015_2205,.,x
+Site N4,37.48,222.26,No,x,5,PSP_008236_2180,.,x
+Site N5,38.94,123.71,No,x,6,PSP_010547_2195,.,x
+Site N7,39.57,190.05,No,x,2.5,ESP_011428_2200,.,x
+Site N9,38.43,293.8,No,x,2,ESP_016501_2185,.,x
+Site N11,36.92,148.3,No,x,9,ESP_017192_2170,.,x
+Site N12,35.52,36.35,No,x,6;4,ESP_017262_2160,.,x
+Site N13,39.3,293.79,No,x,3,ESP_017991_2195,.,x
+Site N14,38.65,280.24,No,x,7.5;2.5,ESP_018097_2190,.,x
+Site N15,40.34,185.5,No,x,3,ESP_018707_2205,.,x
+Site N16,54.77,196.85,No,x,2.75,ESP_018746_2350,.,x
+Site N17,46.61,133.71,No,x,2.75,ESP_018854_2270,.,Near Viking Lander 2.
+Site N18,36.01,282.01,No,x,4,ESP_019165_2165,.,x
+Site N20,49.35,189.67,No,x,1.75,ESP_019287_2295,.,x
+Site N21,40.42,77.6,No,x,1.75,ESP_019779_2205,.,x
+Site N22,35.32,201.37,No,x,6,ESP_026038_2155,.,x
+Site N23,-74.51,157.89,No,x,3.5,ESP_032106_1055,.,x
+Site N24,40.9,222.71,No,x,3,ESP_033606_2210,.,x
+Site N25,38.68,210.41,No,x,4.75,ESP_033923_2190,.,x
+Site N26,45.02,203.23,No,x,3,ESP_033976_2255,.,x
+Site N27,46.8,149.51,No,x,3.5;2.5,ESP_034334_2270,.,x
+Site N28,50.93,221.94,No,x,4.75,ESP_034595_2315,.,x
+Site N29,39.12,21.38,No,x,5.5,ESP_035209_2195,.,x
+Site N30,50.36,232.9,No,x,4,ESP_035201_2310,.,x
+Site N31,37.24,36.01,No,x,3,ESP_035815_2175,.,x
+Site N32,42.06,205.24,No,x,2.5,ESP_036033_2225,.,x
+Site N33,41.4,206.81,No,x,3,ESP_036178_2215,.,x
+Site N34,44.34,172.3,No,x,2.5,ESP_036232_2245,.,x
+Site N35,44.75,232.11,No,x,4.25,ESP_036243_2250,.,x
+Site N36,55.57,240.52,No,x,2,ESP_036269_2360,.,x
+Site N37,43.13,204.81,No,x,2,ESP_036600_2235,.,x
+Site N38,54.36,228.54,No,x,2.5,ESP_036665_2345,.,x
+Site N40,42.46,151.01,No,x,5,ESP_037169_2230,.,x
+Site N41,-55.87,264.76,No,x,3.5;2.75,ESP_037284_1240,.,Ejecta superposes seasonal frost and quickly shrank while frost remained. No convincing sign of ice in the first defrosted look.
+Site N42,49.91,270.24,No,x,3.5,ESP_037336_2300,.,x
+Site N43,35.27,191.2,No,x,4.5,ESP_037761_2155,.,x
+Site N44,37.39,100,No,x,5.5,ESP_042103_2175,.,x
+Site N45,43.05,164.78,No,x,4,ESP_043406_2235,.,x
+Site N46,37.17,104.53,No,x,4,ESP_043606_2175,.,x
+Site N47,43.94,173.75,No,x,1,ESP_044698_2245,.,x
+Site N48,37.41,56.26,No,x,4.25,ESP_045098_2175,.,x
+Site N49,39.86,34.53,No,x,2,ESP_045323_2200,.,x
+Site N50,57.29,255.11,No,x,1.75,ESP_045328_2375,.,x
+Site N52,44.79,147.1,No,x,1.5,ESP_045543_2250,.,x
+Site N53,39.65,153.35,No,x,4.25,ESP_045767_2200,.,x
+Site N54,49.56,181.61,No,x,2.5,ESP_045990_2300,.,x
+Site N55,46.93,222.26,No,x,4.5;3;3,ESP_046160_2275,.,x
+Site N56,45.06,240.58,No,x,8.5,ESP_046278_2255,.,x
+Site N57,35.87,230.87,No,x,8;7;7,ESP_046463_2160,.,x
+Site N58,-37.98,114.3,No,x,15;7.25,ESP_046850_1415,.,x
+Site N59,35.38,152.08,No,x,2.5,ESP_052439_2155,.,x
+Site N60,39.69,164.52,No,x,10,ESP_052755_2200,.,x
+Site N61,39.14,281.01,No,x,4.5,ESP_052843_2195,.,x
+Site N62,50.61,206.43,No,x,4.5,ESP_053083_2310,.,x
+Site N63,36,149.58,No,x,4,ESP_053995_2165,.,x
+Site N64,41.3,199.63,No,x,3.5,ESP_054125_2215,.,x
+Site N65,35.59,42.51,No,x,17.5,ESP_055133_2160,.,x
+Site N66,43.27,183.05,No,x,2.75,ESP_055286_2235,.,x
+Site N67,39.99,200.75,No,x,5,ESP_055470_2205,.,x
+Site N68,38.05,48.28,No,x,7.5,ESP_055502_2185,.,x
+Site N69,35.16,228.74,No,x,8.25,ESP_055535_2155,.,x
+Site N70,35.74,247.08,No,x,4.5,ESP_056906_2160,.,x
+Site N71,37.88,284.67,No,x,4.5,ESP_056931_2180,.,x
+Site N73,37.62,188.38,No,x,7,ESP_057660_2180,.,x
+Site N74,36.25,71.38,No,x,5,ESP_058205_2165,.,x
+Site N75,-51.88,194.99,No,x,4.75,ESP_059414_1280,.,x
+Site N76,38.02,164.01,No,x,4.5;2.75,ESP_059441_2185,.,x
+Site N77,-35.12,235.73,No,x,12,ESP_053623_1445,.,Ejecta bright but relatively-yellow.
+Site N78,-45.43,88.02,No,x,2.5,ESP_059642_1340,.,x
+Site N79,-49.88,99.96,No,x,2,ESP_059668_1300,.,x
+Site N80,-48.07,58.25,No,x,5.75;3.25,ESP_060342_1315,.,x
+Site N81,42.79,238.09,No,x,5;4,ESP_061812_2230,.,x
+Site N82,44.46,257.5,No,x,3.75,ESP_061930_2250,.,x
+Site N83,36.92,230.69,No,x,4.5,ESP_050300_2170,.,x
+Site N84,-73.45,264.11,No,x,5.5,ESP_057315_1065,.,No defrosted image until after winter passed; may have been modified. 
+Site N85,41.02,126.3,No,x,12.5,ESP_019830_2215,.,Many craters; some have flat floors; slight color anomaly in largest.
+Site N86,37.83,97.11,No,x,2.5,ESP_063228_2180,.,x
+Site N87,46.83,112.36,No,x,3.5,ESP_063768_2270,.,x
+Site N88,43,215.35,No,x,3.5,ESP_063817_2235,.,x
+Site N89,35.74,85.86,No,x,2.5,ESP_063413_2160,.,Brain terrain
+Site P2,47.72,225.13,Possible,x,7.75,ESP_026248_2280,x,Ring-shaped color anomaly. Never strong and not fully faded over four MY. 
+Site P3,40.12,157.93,Possible,x,8,ESP_026989_2205,x,Relatively-blue crater wall became less distinct but seems to correlate with blast zone fading. 
+Site P4,53.58,228.3,Possible,x,6,ESP_034186_2340,x,Crater with an anomalously bright illuminated wall but no convincing evidence for fading over time. 
+Site P7,57.24,358.02,Probable,x,1.75,ESP_037069_2375,x,One 1.5-m crater has an anomalous relatively-blue crater wall. Classified as probable given the small size. 
+Site P9,75.42,57.24,Probable,x,Uncertain,ESP_044992_2555,x,Multiple follow-on images show widespread bright patches throughout the image persisting through the summer. May be exposed ice. Candidate Impact looks somewhat distinct from these non-impact features but not considered definitive.   
+Site P10,54.89,254.55,Possible,x,2,ESP_045539_2350,x,Slight relatively-blue glint within the crater. Bright spot not apparent in later image but blast pattern also erased.
+Site P11,63.82,26.07,Probable,x,2,ESP_046378_2440,x,Relatively-blue glint that later faded. Classified as probable because of small size and concurrent fading of blast zone. 
+Site P12,-42.58,226.83,Probable,x,5.5,ESP_049061_1370,x,Slight color anomaly. Later faded but not distinctive enough to raise above probable.
+Site P13,-52.09,109.24,Possible,x,4.5;4,ESP_050239_1275,x,Some crater walls appear slightly bright. No follow-up image.
+Site P14,-72.64,109.64,Possible,x,3.5,ESP_050437_1070,x,Initial image low quality but crater wall slightly bright. All subsequent images post-date seasonal cap. 
+Site P16,45.99,209.71,Possible,x,5.75,ESP_052872_2265,x,Relatively-blue material. Fainter in follow-on image but blast zone also less distinct. 
+Site P17,60.82,241.14,Possible,x,2.5,ESP_054031_2410,x,Weak relatively-blue color anomaly. Follow-on post-dates seasonal cap and planet-encircling dust storm.
+Site P18,-61.59,171.57,Possible,x,3,ESP_059283_1180,x,Bright spot on sun-facing crater wall.
+Site P19,46.94,225.59,Possible,x,5.75;4.75,ESP_061997_2275,x,Relatively-blue bright pixel. 
+Site P20,71.15,94.14,Probable,x,Uncertain,ESP_053100_2515,x,Relatively-blue patches approximately match location of dark spot in CTX but not considered definitive due to lack of well-defined crater.   
+Site P21,-41.26,287.67,Possible,x,10.75,ESP_063406_1385,x,Ejecta is bright but mostly relatively-yellow. 
+Site P22,40.32,221.22,Possible,x,7.25;5.75;5,ESP_011295_2205,n,Slight color anomaly but feature has not faded significantly over five MY. 
+Site P23,39.38,149.37,Possible,x,22,ESP_016203_2195,x,"Some relatively-blue material, but only partially faded over three MY despite low latitude. "
+Site P24,43.78,203.31,Possible,x,5.25;4,ESP_016557_2240,n,Crater walls slightly bright/blue but remain so after five MY. 
+Site P25,37.34,182.19,Possible,x,8,ESP_019195_2175,n,Faint color anomaly which remains bright after five MY. Unlikely to be ice. 
+Site P26,42.77,204.27,Possible,x,5,ESP_036666_2230,n,Minor color feature. 
+Site P27,48.29,221.93,Possible,x,5.5,ESP_045448_2285,x,Minor color feature. 
+Site P28,-81.49,41.35,Probable,x,18,ESP_057152_0985,x,Impacted seasonal frost on south polar layered deposits. Small color feature in ESP_057574_0985 is likely ice. Irregular rim shape.
+Site 1,46.35,176.89,Yes,4;3.75,4.5,PSP_009978_2265,n,x
+Site 2,43.3,164.21,Yes,6,2.5,PSP_010084_2235,n,x
+Site 3,55.58,150.6,Yes,8;4.5;3.5;3;3;3;1,x,PSP_010625_2360,y,x
+Site 4,45.07,164.7,Yes,4.5,4,PSP_010585_2255,n,x
+Site 5,46.18,188.5,Yes,12,x,PSP_010861_2265,n,x
+Site 6,50.67,278.4,Yes (CTX),5.75,x,ESP_015908_2310,n,x
+Site 7,44.22,164.2,Yes,24;10.75,7;6;6;5.5,ESP_016954_2245,y,x
+Site 8,44.35,152.92,Yes,6.75;4.25,x,ESP_016994_2245,n,x
+Site 9,63.92,44.88,Yes,20,x,ESP_017868_2440,y,x
+Site 10,53.27,46.26,Yes,9,x,ESP_017789_2335,n,x
+Site 11,50.51,265.2,Yes,14.75;7;3.75,5,ESP_017926_2310,n,x
+Site 12,64.29,231.5,Yes,4,x,ESP_018125_2445,n,x
+Site 13,60.99,238.72,Yes,4.5;3.25;3.25,x,ESP_018573_2415,n,x
+Site 14,43.9,204.35,Yes,12.75,x,ESP_025840_2240,y,x
+Site 15,50.78,208.76,Yes,5.75,x,ESP_025642_2310,n,x
+Site 16,50.37,219.71,Yes,5.5;4,2,ESP_026802_2305,n,x
+Site 17,52.01,214.7,Yes,8;5.75;3.75,4.75;3.5,ESP_027000_2325,n,x
+Site 18,39.11,190.25,Yes,12;11.5;8.5;8;7.5,8.5;6.25;5,ESP_029256_2195,n,x
+Site 19,-71.51,191.53,Yes,7,x,ESP_032118_1085,x,x
+Site 20,-73.69,250.62,Yes,8.5;5;4.5;2.25,x,ESP_032340_1060,y,Ejecta relatively-yellow initially but blue/white later in fading and shrinking. 
+Site 21,68.54,358.53,Yes,4.25;2.5,x,ESP_033825_2490,x,x
+Site 22,65.06,220.5,Yes,4.5;3.75;3.25,x,ESP_036085_2455,x,x
+Site 23,57.33,234.2,Yes,2.75;1.75,1.75,ESP_036467_2375,x,x
+Site 24,69.47,80.44,Yes,7.5,x,ESP_036657_2495,n,x
+Site 25,74.64,49.56,Yes,8,x,ESP_036658_2550,x,x
+Site 26,55.62,241.24,Yes,10,x,ESP_036836_2360,n,x
+Site 27,63.68,251.45,Yes,Uncertain,x,ESP_037086_2440,x,x
+Site 28,-62.54,76,Yes (CTX),4.5,x,ESP_037502_1170,x,x
+Site 29,-57.36,125.17,Yes,5.75;4.25;2.5,x,ESP_039861_1225,n,x
+Site 30,-65,329.84,Yes,6,x,ESP_039946_1150,x,x
+Site 31,42.58,189.02,Yes,6,2.5,ESP_043537_2230,x,x
+Site 32,45.85,147.2,Yes,7.25;6.75,4.75,ESP_045754_2260,x,x
+Site 33,58.97,58.58,Yes,3.25;2.75,2.75,ESP_045823_2390,x,x
+Site 34,64.38,77.59,Yes,4.5;3.5,x,ESP_045875_2445,x,x
+Site 35,63.95,282.39,Yes,5,x,ESP_045973_2440,x,x
+Site 36,69.35,142.2,Yes,12,x,ESP_046189_2495,n,x
+Site 37,41.46,48.76,Yes,48,x,ESP_046707_2220,x,x
+Site 38,41.91,36.42,Yes,16,x,ESP_046747_2220,x,x
+Site 39,-58.54,207.23,Yes,6;5.5;5.5,x,ESP_047005_1210,x,x
+Site 40,-51.29,101.06,Yes,3.75,3,ESP_051070_1285,x,x
+Site 41,-67.14,15.35,Yes,2,x,ESP_058735_1125,x,Slightly relatively-yellow but setting highly suggestive of ice. 
+Site 42,-68.31,156.61,Yes,3.5,x,ESP_058453_1115,x,x
+Site 43,-71.74,156.63,Yes,4,x,ESP_058809_1080,x,Slightly relatively-yellow but setting highly suggestive of ice. 
+Site 44,-46.21,208.64,Yes,7;4.5,x,ESP_059453_1335,x,x
+Site 45,52.95,50.87,Yes,7,x,ESP_033942_2335,n,x
+Site 46,46.62,171.88,Yes,6,4,ESP_036443_2270 and ESP_036588_2270,x,x
+Site 47,39.56,202.42,Yes,5.5,x,ESP_043853_2200,x,x
+Site 48,47.43,112.01,Yes,8;6.75,7;6.25;4.25,ESP_063979_2280,x,x
