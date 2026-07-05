@@ -1,0 +1,136 @@
+<?xml-model href="http://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1H00.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<Product_Collection xmlns="http://pds.nasa.gov/pds4/pds/v1" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://pds.nasa.gov/pds4/pds/v1 http://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1H00.xsd">
+    <Identification_Area>
+        <logical_identifier>urn:nasa:pds:mars_mro_hirise_explorationzones_day_2023:data</logical_identifier>
+        <version_id>1.0</version_id>
+        <title>Paired CTX and HiRISE DTMs for areas of known scientific interest, UCLA, UT Austin - Data Collection</title>
+        <information_model_version>1.17.0.0</information_model_version>
+        <product_class>Product_Collection</product_class>
+        <Citation_Information>
+            <author_list>Day, Mackenzie, E. Kim, M. Sullivan, T. Goudge, and D. Paige</author_list>
+            <publication_year>2023</publication_year>
+            <doi>10.17189/ervc-mr85</doi>
+            <description>PDS archive of CTX and HiRISE Digital elevation models (DEMs) for areas of known scientific interest by UCLA and UT Austin</description>
+        </Citation_Information>
+        <Modification_History>
+            <Modification_Detail>
+                <modification_date>2023-04-19</modification_date>
+                <version_id>1.0</version_id>
+                <description>initial release</description>
+            </Modification_Detail>
+        </Modification_History>
+    </Identification_Area>
+    <Context_Area>
+        <Time_Coordinates>
+            <start_date_time xsi:nil="true" nilReason="inapplicable" />
+            <stop_date_time xsi:nil="true" nilReason="inapplicable" />
+        </Time_Coordinates>
+       <Primary_Result_Summary>
+            <purpose>Science</purpose>
+            <processing_level>Derived</processing_level>
+            <description>This archive aims to bridge some of the gap between the available stereo imaging and the available DEMs. Roughly 26
+00 DEMs are included in this archive, half created using images from the High Resolution Imaging Science Experiment (HiRISE) and half using
+images from the Context Camera (CTX) aboard the Mars Reconnaissance Orbiter. CTX DEMs in this archive overlap one of the HiRISE DEMs, provid
+ing three-dimensional context, but at lower resolution, for the 1 m/px HiRISE DEMs. DEMs locations were chosen from HiRISE targeted for coll
+ection in stereo, suggesting an existing scientific interest by the community.</description>
+        </Primary_Result_Summary>
+        <Investigation_Area>
+            <name>Mars Reconnaissance Orbiter</name>
+            <type>Mission</type>
+            <Internal_Reference>
+                <lid_reference>urn:nasa:pds:context:investigation:mission.mars_reconnaissance_orbiter</lid_reference>
+                <reference_type>collection_to_investigation</reference_type>
+            </Internal_Reference>
+        </Investigation_Area>
+        <Observing_System>
+            <Observing_System_Component>
+                <name>High Resolution Imaging Science Experiment</name>
+                <type>Instrument</type>
+                <Internal_Reference>
+                    <lid_reference>urn:nasa:pds:context:instrument:hirise.mro</lid_reference>
+                    <reference_type>is_instrument</reference_type>
+                </Internal_Reference>
+            </Observing_System_Component>
+            <Observing_System_Component>
+                <name>Context Camera</name>
+                <type>Instrument</type>
+                <Internal_Reference>
+                    <lid_reference>urn:nasa:pds:context:instrument:ctx.mro</lid_reference>
+                    <reference_type>is_instrument</reference_type>
+                </Internal_Reference>
+            </Observing_System_Component>
+        </Observing_System>
+        <Target_Identification>
+            <name>Mars</name>
+            <type>Planet</type>
+            <Internal_Reference>
+                <lid_reference>urn:nasa:pds:context:target:planet.mars</lid_reference>
+                <reference_type>data_to_target</reference_type>
+            </Internal_Reference>
+        </Target_Identification>
+    </Context_Area>
+    <Reference_List>
+        <Internal_Reference>
+            <lid_reference>urn:nasa:pds:context:node:node.imaging</lid_reference>
+            <reference_type>collection_curated_by_node</reference_type>
+        </Internal_Reference>
+        <Internal_Reference>
+            <lid_reference>urn:nasa:pds:context:instrument_host:spacecraft.mro</lid_reference>
+            <reference_type>collection_to_context</reference_type>
+        </Internal_Reference>
+        <Internal_Reference>
+            <lid_reference>urn:nasa:pds:context:instrument:hirise.mro</lid_reference>
+            <reference_type>collection_to_context</reference_type>
+        </Internal_Reference>
+        <Internal_Reference>
+            <lid_reference>urn:nasa:pds:context:instrument:ctx.mro</lid_reference>
+            <reference_type>collection_to_context</reference_type>
+        </Internal_Reference>
+        <Internal_Reference>
+            <lid_reference>urn:nasa:pds:context:investigation:mission.mars_reconnaissance_orbiter</lid_reference>
+            <reference_type>collection_to_context</reference_type>
+        </Internal_Reference>
+        <Internal_Reference>
+            <lid_reference>urn:nasa:pds:context:target:planet.mars</lid_reference>
+            <reference_type>collection_to_context</reference_type>
+        </Internal_Reference>
+    </Reference_List>
+    <Collection>
+        <collection_type>Data</collection_type>
+    </Collection>
+    <File_Area_Inventory>
+        <File>
+            <file_name>collection_data.csv</file_name>
+            <creation_date_time>2023-04-19</creation_date_time>
+            <file_size unit="byte">809818</file_size>
+        </File>
+        <Inventory>
+            <offset unit="byte">0</offset>
+            <parsing_standard_id>PDS DSV 1</parsing_standard_id>
+            <records>6677</records>
+            <record_delimiter>Carriage-Return Line-Feed</record_delimiter>
+            <field_delimiter>Comma</field_delimiter>
+            <Record_Delimited>
+                <fields>2</fields>
+                <groups>0</groups>
+                <Field_Delimited>
+                    <name>Member Status</name>
+                    <field_number>1</field_number>
+                    <data_type>ASCII_String</data_type>
+                    <maximum_field_length unit="byte">1</maximum_field_length>
+                    <field_format>%1s</field_format>
+                </Field_Delimited>
+                <Field_Delimited>
+                    <name>LIDVID_LID</name>
+                    <field_number>2</field_number>
+                    <data_type>ASCII_LIDVID_LID</data_type>
+                    <maximum_field_length unit="byte">255</maximum_field_length>
+                    <field_format>%-255s</field_format>
+                </Field_Delimited>
+            </Record_Delimited>
+            <reference_type>inventory_has_member_product</reference_type>
+        </Inventory>
+    </File_Area_Inventory>
+</Product_Collection>
