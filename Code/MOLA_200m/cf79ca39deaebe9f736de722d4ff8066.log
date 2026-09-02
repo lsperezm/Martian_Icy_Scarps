@@ -1,0 +1,34 @@
+       U.S. Geological Survey Cloud Processing Services
+                https://astrocloud.wr.usgs.gov
+
+                   Map-a-Planet 2 (MAP2)
+
+       PDS Cartography and Imaging Node at USGS Astrogeology
+              Contact Information: astroweb@usgs.gov
+
+____________________________________________________________________
+
+JOB INFORMATION
+
+     SERVICE:         MAP2
+     JOB KEY:         cf79ca39deaebe9f736de722d4ff8066
+     PROCESSING DATE: 2026-09-01 14:52
+     ISIS VERSION:   8.3.0     JOB STATUS:      SUCCESS
+     FILE COUNT:      1
+
+_____________________________________________________________________
+
+PROCESSING INFORMATION
+
+     IMAGE: Mars_HRSC_MOLA_BlendDEM_Global_200mp_v2
+          PROCESS:  map2map
+               STATUS:     SUCCESS
+               PARAMETERS: {'from_': '/caldera/hovenweep/projects/usgs/css/astro/projects/pds/workarea/PDS_Derived/MAP2/images/Mars/HRSC_MOLA_Blend/Mars_HRSC_MOLA_BlendDEM_Global_200mp_v2.lbl', 'to': '/caldera/hovenweep/projects/usgs/css/astro/projects/pds/workarea/cf79ca39deaebe9f736de722d4ff8066/Mars_HRSC_MOLA_BlendDEM_Global_200mp_v2.reproj.cub', 'map': '/caldera/hovenweep/projects/usgs/css/astro/projects/pds/workarea/cf79ca39deaebe9f736de722d4ff8066/cf79ca39deaebe9f736de722d4ff8066.map', 'matchmap': 'no', 'pixres': 'MAP', 'defaultrange': 'MAP', 'interp': 'bilinear', 'trim': 'YES'}
+               HELP LINK:  https://isis.astrogeology.usgs.gov/Application/presentation/Tabbed/map2map/map2map.html
+
+          PROCESS:  gdal_translate
+               STATUS:     SUCCESS
+               PARAMETERS: {'outputType': 'Int16', 'format': 'GTiff', 'creationOptions': ['bigtiff=if_safer'], 'src': '/caldera/hovenweep/projects/usgs/css/astro/projects/pds/workarea/cf79ca39deaebe9f736de722d4ff8066/Mars_HRSC_MOLA_BlendDEM_Global_200mp_v2.reproj.cub', 'dest': '/caldera/hovenweep/projects/usgs/css/astro/projects/pds/workarea/cf79ca39deaebe9f736de722d4ff8066/Mars_HRSC_MOLA_BlendDEM_Global_200mp_v2_final.tif'}
+               HELP LINK:  www.gdal.org/gdal_translate.html
+
+END-PROCESSING
