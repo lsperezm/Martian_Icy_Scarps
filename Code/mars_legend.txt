@@ -1,6 +1,7 @@
 N 1
 H 9p,Helvetica-Bold Noachian
-S 0.35c r 0.8c #957B60 0.25p,black 0.05c eNh   Early highland unit
-S 0.35c r 0.8c #9F866B 0.25p,black 0.05c eNhm   Early highland massif unit
-S 0.35c r 0.8c #A89179 0.25p,black 0.05c lNh   Late highland unit
-S 0.35c r 0.8c #BAA794 0.25p,black 0.05c mNh   Middle highland unit
+S 0.35c r 0.8c #957B60 0.25p,black 0.03c eNh  Early highland unit
+S 0.35c r 0.8c #9F866B 0.25p,black 0.03c eNhm  Early highland massif unit
+S 0.35c r 0.8c #A89179 0.25p,black 0.03c lNh  Late highland unit
+S 0.35c r 0.8c #BAA794 0.25p,black 0.03c mNh  Middle highland unit
+S 0.3c v0.3c+e 0.35c black 1.2p,black 0.6c Surrounding terrain slope direction
